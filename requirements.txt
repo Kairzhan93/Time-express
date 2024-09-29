@@ -1,6 +1,5 @@
-echo Flask >> requirements.txt
 Flask
-requests
-# добавьте другие библиотеки, если необходимо
+
+
 
 
