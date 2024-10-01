@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Игнорировать временные и кэшированные файлы
 *.bin
 *.log
@@ -25,3 +26,14 @@ Desktop.ini
 NTUSER.DAT*
 ntuser.ini
 ntuser.dat.LOG*
+=======
+venv/ 
+__pycache__/ 
+*.pyc 
+*.pyo 
+*.pyd 
+*.db 
+*.sqlite3 
+*.log 
+.DS_Store 
+>>>>>>> 881884bc6547d9fa3da99e9bec40c6685180edfd
