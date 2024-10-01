@@ -1,0 +1,27 @@
+# Игнорировать временные и кэшированные файлы
+*.bin
+*.log
+.cache/
+venv/
+
+# Игнорировать директории с пользовательскими данными
+AppData/
+OneDrive/
+Desktop/
+Documents/
+Downloads/
+Favorites/
+IntelGraphicsProfiles/
+Links/
+Music/
+Pictures/
+Saved/
+Searches/
+Videos/
+
+# Игнорировать системные файлы
+Thumbs.db
+Desktop.ini
+NTUSER.DAT*
+ntuser.ini
+ntuser.dat.LOG*
