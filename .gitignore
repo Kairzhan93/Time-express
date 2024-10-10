@@ -1,39 +1,13 @@
-<<<<<<< HEAD
-# Игнорировать временные и кэшированные файлы
-*.bin
-*.log
-.cache/
-venv/
+Мои видеозаписи/
+мои рисунки/
+Моя музыка/
+Application Data/
+Cookies/
+Local Settings/
+NetHood/
+PrintHood/
+Recent/
+SendTo/
+главное меню/
+Шаблоны/
 
-# Игнорировать директории с пользовательскими данными
-AppData/
-OneDrive/
-Desktop/
-Documents/
-Downloads/
-Favorites/
-IntelGraphicsProfiles/
-Links/
-Music/
-Pictures/
-Saved/
-Searches/
-Videos/
-
-# Игнорировать системные файлы
-Thumbs.db
-Desktop.ini
-NTUSER.DAT*
-ntuser.ini
-ntuser.dat.LOG*
-=======
-venv/ 
-__pycache__/ 
-*.pyc 
-*.pyo 
-*.pyd 
-*.db 
-*.sqlite3 
-*.log 
-.DS_Store 
->>>>>>> 881884bc6547d9fa3da99e9bec40c6685180edfd
