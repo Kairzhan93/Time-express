@@ -2,7 +2,7 @@ from flask import Flask, request
 import os
 import telebot
 
-TELEGRAM_TOKEN = os.environ.get('TELEGRAM_TOKEN')  # Получите токен из переменной окружения
+TELEGRAM_TOKEN = os.environ.get('7245109449:AAFwxXVauolRKUOnDjxdgAYJfCu3E3zhKZY')  # Получите токен из переменной окружения
 bot = telebot.TeleBot(TELEGRAM_TOKEN)
 
 app = Flask(__name__)
